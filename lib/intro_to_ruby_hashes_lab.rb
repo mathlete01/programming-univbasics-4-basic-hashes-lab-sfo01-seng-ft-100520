@@ -8,6 +8,7 @@ def my_hash
   cakes = {
     type: "Bundt",
     flavor: "Limeade"
+    calorites: 300
   }
 end
 
