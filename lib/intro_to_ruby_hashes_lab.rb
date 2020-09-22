@@ -7,7 +7,7 @@ def my_hash
   # return a valid hash with any key/value pair of your choice
   cakes = {
     type: "Bundt",
-    flavor: "Limeade"
+    flavor: "Limeade",
     calories: 300
   }
 end
